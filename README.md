@@ -21,6 +21,7 @@ A simple Tic Tac Toe game made using HTML, CSS, and JavaScript. Two players can 
 ## 🚀 How to Play
 1. Open the deployed link.
 2. Start playing and enjoy the game!
+3. Deployed link-https://tic-tac-toe-xi-pearl.vercel.app
 
 ## 👩‍💻 Author
 **Shilpi Aggarwal**

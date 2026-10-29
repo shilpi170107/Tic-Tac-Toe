@@ -4,8 +4,11 @@ A simple Tic Tac Toe game made using HTML, CSS, and JavaScript. Two players can 
 
 ## 📸 Screenshot
 
-<img src="C:\Users\shilp\OneDrive\Pictures\Screenshots\Screenshot 2026-10-30 014425.png" alt="Tic Tac Toe Game" width="500">
-<img src="C:\Users\shilp\OneDrive\Pictures\Screenshots\Screenshot 2026-10-30 014503.png" alt="Tic Tac Toe Game" width="500">
+## 📸 Screenshots
+
+<img src="./Screenshot%202026-10-30%20014425.png" alt="Tic Tac Toe Game" width="500">
+
+<img src="./Screenshot%202026-10-30%20014503.png" alt="Tic Tac Toe Gameplay" width="500">
 
 ## ✨ Features
 - Two-player game
